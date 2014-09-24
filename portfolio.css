@@ -3,7 +3,11 @@
 	background-color: #bcd0e5;
 }
 
-
+body 
+{
+	background-color: #bcd0e5;
+	background-image: "CharlesRiver.jpg"
+}
 .normal 
 {
 	text-align: center;
