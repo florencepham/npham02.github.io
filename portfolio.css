@@ -1,6 +1,51 @@
-.everything 
+#outline
+{
+	background-color: #bcd0e5;
+}
+
+
+.normal 
+{
+	text-align: center;
+	font-style: Garamond;
+	font-size: 16px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	/* bcd0e5: pale blue;
+	*/
+}
+
+.resume
 {
 	font-style: Garamond;
-	font-size: 96px;
-	font-style: italic;
+	font-size: 16px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	/* bcd0e5: pale blue;
+	*/
+}
+.resumeheader
+{
+	text-align: center;
+}
+
+.paragraph
+{
+	color: ;
+
+}
+.link
+{
+	display: flex;
+	align-items: flex-start;
+}
+.header
+{
+	font-style: Garamond;
+	position: center;
+
 }
