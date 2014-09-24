@@ -37,14 +37,8 @@
 {
 	width: 50%;
 	height: 50%;
-	text-align: center;
 }
 
-.link
-{
-	display: flex;
-	align-items: flex-start;
-}
 .header
 {
 	font-style: Garamond;
