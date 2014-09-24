@@ -33,11 +33,13 @@
 	text-align: center;
 }
 
-.paragraph
+.image
 {
-	color: ;
-
+	width: 50%;
+	height: 50%;
+	text-align: center;
 }
+
 .link
 {
 	display: flex;
