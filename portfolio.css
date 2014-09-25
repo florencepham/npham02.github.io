@@ -1,17 +1,11 @@
-#outline
-{
-	background-color: #bcd0e5;
-}
-
 body 
 {
 	background-color: #bcd0e5;
-	background-image: "CharlesRiver.jpg"
 }
 .normal 
 {
 	text-align: center;
-	font-style: Garamond;
+	font-style: Calibri;
 	font-size: 16px;
 	margin-top: 100px;
 	margin-bottom: 100px;
@@ -23,7 +17,7 @@ body
 
 .resume
 {
-	font-style: Garamond;
+	font-style: Calibri;
 	font-size: 16px;
 	margin-top: 100px;
 	margin-bottom: 100px;
@@ -39,13 +33,13 @@ body
 
 .image
 {
-	width: 50%;
-	height: 50%;
+	width: 40%;
+	height: 40%;
 }
 
 .header
 {
-	font-style: Garamond;
+	font-style: Calibri;
 	position: center;
 
 }
