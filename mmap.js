@@ -50,7 +50,7 @@ function markMe()
 	}
 	markerMaker(myLat, myLng, "Me!");
 }
-
+*/
 function studentsMaker(parsed)
 {
 	//mark students
