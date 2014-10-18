@@ -18,7 +18,7 @@ function initialize()
 {
 	var mapOptions = { 
 	zoom: 3,
-	center: new google.maps.LatLng(myLat, myLng), //change later on
+	center: new google.maps.LatLng(75.45920, 42.4520), //change later on
 	mapTypeId: google.maps.MapTypeId.ROADMAP
 	};
 	
@@ -39,6 +39,7 @@ function initialize()
 }
 google.maps.event.addDomListener(window, 'load', initialize);
 
+/*
 function markMe()
 {
 	if (navigator.geolocation) { 
