@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title> Nga Pham - Personal Portfolio </title>
-		<link rel="stylesheet" type="text/css" href="portfolio.css"/>
-	</head>
+  <head>
+    <title>Harry Porter</title>
 
-	<body>
-		<div class="normal">
-			<a href="index.html">Home</a>
-			<a href="bio.html">About me</a>
-			<a href="resume.html">Resume</a>
-			<p class="image"><img src="CharlesRiver.jpg" alt="Pictures of Charles River"></p>
-		</div>
-	</body>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script type="http://chickenofthesea.herokuapp.com/sendLocation"></script>
+    <script src="mmap.js"></script>
+
+    <link rel="stylesheet" href="mmap.css" />
+
+  </head>
+  
+  <body onload="initialize()">
+     <div id="map_canvas" style="width:100%; height:100%"></div> 
+  </body>
+
 </html>
+
